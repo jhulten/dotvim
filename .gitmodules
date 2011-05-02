@@ -19,3 +19,9 @@
 [submodule "bundle/asciidoc"]
 	path = bundle/asciidoc
 	url = https://github.com/vim-scripts/asciidoc.vim.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = https://github.com/vim-scripts/UltiSnips.git
+[submodule "bundle/slimv"]
+	path = bundle/slimv
+	url = https://github.com/vim-scripts/slimv.vim.git
