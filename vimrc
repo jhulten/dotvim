@@ -29,4 +29,4 @@ let g:miniBufExplModSelTarget = 1
 
 let g:gist_detect_filetype = 1
 
-
+nnoremap <silent> <F8> :TagExplorer<CR> 

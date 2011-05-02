@@ -31,3 +31,6 @@
 [submodule "bundle/rvmprompt"]
 	path = bundle/rvmprompt
 	url = https://github.com/vim-scripts/rvmprompt.vim.git
+[submodule "bundle/tagexplorer"]
+	path = bundle/tagexplorer
+	url = https://github.com/vim-scripts/tagexplorer.vim.git
