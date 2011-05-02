@@ -25,3 +25,9 @@
 [submodule "bundle/slimv"]
 	path = bundle/slimv
 	url = https://github.com/vim-scripts/slimv.vim.git
+[submodule "bundle/gist"]
+	path = bundle/gist
+	url = https://github.com/vim-scripts/Gist.vim.git
+[submodule "bundle/rvmprompt"]
+	path = bundle/rvmprompt
+	url = https://github.com/vim-scripts/rvmprompt.vim.git
