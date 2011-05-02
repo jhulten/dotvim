@@ -31,6 +31,3 @@
 [submodule "bundle/rvmprompt"]
 	path = bundle/rvmprompt
 	url = https://github.com/vim-scripts/rvmprompt.vim.git
-[submodule "bundle/vimwiki"]
-	path = bundle/vimwiki
-	url = 
