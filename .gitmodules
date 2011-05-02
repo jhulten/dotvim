@@ -13,3 +13,9 @@
 [submodule "bundle/vim-cucumber"]
 	path = bundle/vim-cucumber
 	url = https://github.com/tpope/vim-cucumber.git
+[submodule "bundle/vim-rake"]
+	path = bundle/vim-rake
+	url = https://github.com/tpope/vim-rake.git
+[submodule "bundle/asciidoc"]
+	path = bundle/asciidoc
+	url = https://github.com/vim-scripts/asciidoc.vim.git
