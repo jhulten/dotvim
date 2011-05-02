@@ -1,0 +1,2 @@
+This is my .vim directory. I use pathogen (autoload/pathogen.vim) to load the packages in the bundle directory, 
+which should be either a dump of the latest version or a git submodule.
