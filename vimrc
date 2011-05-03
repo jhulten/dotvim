@@ -16,6 +16,12 @@ set statusline+=0x%-8B                       " character value
 set statusline+=%-14(%l,%c%V%)               " line, character
 set statusline+=%<%P                         " file position
 
+set noequalalways
+set mousefocus
+
+set expandtab
+set tabstop=4
+set shiftwidth=4
 
 filetype plugin on
 syntax on
@@ -30,3 +36,4 @@ let g:miniBufExplModSelTarget = 1
 let g:gist_detect_filetype = 1
 
 nnoremap <silent> <F8> :TagExplorer<CR> 
+nnoremap <silent> <F2> :NERDTreeToggle<CR>
