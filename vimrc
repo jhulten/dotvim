@@ -2,6 +2,7 @@ call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
 set laststatus=2
+set showtabline=2
 "set statusline=%t\ %y\ format:\ %{&ff};\ [%c,%l]\ %{rvmprompt#statusline()}
 
 set statusline=
@@ -25,6 +26,9 @@ set shiftwidth=4
 
 filetype plugin on
 syntax on
+
+set background=dark
+colorscheme solarized
 
 let mapleader = ","
 
