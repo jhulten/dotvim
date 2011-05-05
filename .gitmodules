@@ -21,7 +21,7 @@
 	url = https://github.com/vim-scripts/asciidoc.vim.git
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
-	url = https://github.com/vim-scripts/UltiSnips.git
+	url = git@github.com:jhulten/UltiSnips.git
 [submodule "bundle/slimv"]
 	path = bundle/slimv
 	url = https://github.com/vim-scripts/slimv.vim.git
