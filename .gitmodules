@@ -18,7 +18,7 @@
 	url = https://github.com/tpope/vim-rake.git
 [submodule "bundle/asciidoc"]
 	path = bundle/asciidoc
-	url = https://github.com/vim-scripts/asciidoc.vim.git
+	url = git@github.com:jhulten/asciidoc.vim.git
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
 	url = git@github.com:jhulten/UltiSnips.git
